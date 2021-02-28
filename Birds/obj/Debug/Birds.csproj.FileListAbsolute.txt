@@ -1,0 +1,7 @@
+D:\1 курс\Программирование\c#\Birds\Birds\obj\Debug\Birds.csprojAssemblyReference.cache
+D:\1 курс\Программирование\c#\Birds\Birds\obj\Debug\Birds.csproj.CoreCompileInputs.cache
+D:\1 курс\Программирование\c#\Birds\Birds\bin\Debug\Birds.exe.config
+D:\1 курс\Программирование\c#\Birds\Birds\bin\Debug\Birds.exe
+D:\1 курс\Программирование\c#\Birds\Birds\bin\Debug\Birds.pdb
+D:\1 курс\Программирование\c#\Birds\Birds\obj\Debug\Birds.exe
+D:\1 курс\Программирование\c#\Birds\Birds\obj\Debug\Birds.pdb
